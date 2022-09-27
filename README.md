@@ -1,3 +1,3 @@
-# merge
+LOCAL
 
 QUELQUES LIGNES DE TEXTE
